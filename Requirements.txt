@@ -1,0 +1,7 @@
+transformers
+torch
+pandas
+scikit-learn
+mlflow
+flask
+tqdm
