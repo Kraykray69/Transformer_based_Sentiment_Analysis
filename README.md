@@ -1,10 +1,9 @@
 # Continuous Training and Deployment Pipeline Design Document
 
-Problem_1_Rupesh/
-├── Data/
+Transformer_based_Sentiment_Analysis/
+├── Data.7z/
 │   └── IMDB Dataset.csv
-├── Notebook/
-│   └── Model_development.ipynb
+│__ Model_development.ipynb
 ├── Source_code/
 │   ├── data_preprocessing.py
 │   ├── model_training.py
